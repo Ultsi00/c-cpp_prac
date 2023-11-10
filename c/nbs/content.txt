@@ -1,0 +1,25 @@
+0:
+reverse string
+
+1: 
+armstrong number: sum of cubes of each digit is the number itself
+153
+1^3 = 1
+5^3 = 125
+3^3 = 27
+1 + 125 + 25 = 153
+
+2:
+input: 1-digit positive numbers (char)
+insert to int[]
+arrange in ascending order
+print numbers
+
+3:
+input: positive integer.
+use recursion to check if the number is a palindrome.
+
+4:
+swap integers
+
+5:
