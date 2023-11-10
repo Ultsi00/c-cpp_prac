@@ -1,0 +1,19 @@
+1:
+input: 2 strings (char*)
+check if strings are anagrams.
+
+2:
+input:  argc = 3
+        argv[1]: string
+        argv[2]: char
+convert selected lowercase char (= argv[2]) found in the string (= argv[2]) to uppercase.
+create a new string, with the converted values.
+print the new string.
+
+4:
+input: argvs
+reads argvs, inserts each length of argv into int array.
+range of indeces are set directly to main, without input().
+concatenates argv contents in the given range.
+prints concatenated str.
+
