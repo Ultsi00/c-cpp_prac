@@ -3,3 +3,8 @@ circuit switch states
 
 sum_2_int:
 sum of 2 highest integers
+
+ladder:
+ladders. If value in int* is 2, can only pass through the ladder
+    once, since by game rules "1 pass costs the int* to lose 2".
+    Int* does not have to modified, can if choose so.
