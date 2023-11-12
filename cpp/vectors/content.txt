@@ -1,0 +1,36 @@
+************
+adding_elements
+************
+.push_back()
+.insert()
+.emplace()
+
+************
+classes_in_vec
+************
+adding classes to vector container
+
+
+************
+iterators
+************
+vector iterator
+
+************
+modify_elements
+************
+.at()
+.pop_back
+.clear()	
+.front()	
+.back()	   
+.empty()	
+.size()	    
+.capacity()
+
+************
+ranged_for_loop
+************
+ranged for loop practice
+
+************
