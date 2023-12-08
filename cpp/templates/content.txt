@@ -1,0 +1,34 @@
+.....................................................
+*** Function templates ***
+0:
+function template
+templated function
+
+1:
+arrays as arguments
+reference as argument
+
+2:
+multiple datatypes with function templates
+
+3:
+default arguments in function templates
+
+......................................................
+*** Class templates ***
+
+4: 
+class as class template
+initializer list
+
+5:  
+multiple datatypes with class templates
+parameterized constructor
+non-parameterized constructor
+copy constructor for class template
+struct with multiple datatypes
+
+6: 
+non-type template arguments
+array access operator
+
