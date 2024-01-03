@@ -4,7 +4,6 @@
 
 /*
 input: char str of positive numbers.
-sum of digits using recursion
 */
 unsigned int sum_digits(char *nb_str, int len) {
     int nb = 0, sum = 0, i = 0;
