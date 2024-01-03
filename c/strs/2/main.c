@@ -44,7 +44,7 @@ static void *cpy_str(char *input, char *str) {
 input:  argc = 3
         argv[1]: string
         argv[2]: char
-convert selected lowercase char (= argv[2]) found in the string (= argv[2]) to uppercase.
+convert selected lowercase char (= argv[2]) found in the string (= argv[1]) to uppercase.
 create a new string, with the converted values.
 print the new string.
 */
