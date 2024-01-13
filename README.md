@@ -1,2 +1,2 @@
 # c-cpp_prac
-syntax refresh/practice
+Uploading here short programs in which practise new syntax or refresh memory.  
